@@ -8,7 +8,7 @@ import java.net.HttpURLConnection;
 
 public class JsessionAttackTest {
 
-	private static final String web = "http://192.168.110.241:8080/SmartCatchMposZkWeb/pages/index.zul?theme=cerulean&target=m2/M203Init.zul";
+	private static final String web = "http://192.168.110.241:8080/SmartCatchMposZkWeb/pages/index.zul?theme=cerulean&target=m2/M204Init.zul";
 	
 	//jsession
 	private static final String jsession = "7AEE1B273091D08FF41BB18609A29A36";
