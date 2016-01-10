@@ -1,4 +1,4 @@
-package http.secure;
+package assam.http.secure;
 
 import java.io.IOException;
 import java.net.URL;

@@ -1,4 +1,4 @@
-package regex;
+package assam.tool.regex;
 
 public class MposFunctionNameFilterTest {
 
