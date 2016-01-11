@@ -1,5 +1,13 @@
 package assam.tool.regex;
 
+/**
+ * @Description 	正則表達式測試
+ * @author 			charlie
+ * @CreateDate 		2016年1月11日 下午4:41:07
+ * @LastModifier 	charlie
+ * @LastModifyDate 	2016年1月11日 下午4:41:07
+ * @Copyright 		Smart Catch International Co., Ltd
+ */
 public class MposFunctionNameFilterTest {
 
 	public static void main(String[] args) {

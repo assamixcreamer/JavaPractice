@@ -5,7 +5,14 @@ import java.net.URL;
 
 import java.net.HttpURLConnection;
 
-
+/**
+ * @Description 	JessionId攻擊
+ * @author 			charlie
+ * @CreateDate 		2016年1月11日 下午4:40:28
+ * @LastModifier 	charlie
+ * @LastModifyDate 	2016年1月11日 下午4:40:28
+ * @Copyright 		Smart Catch International Co., Ltd
+ */
 public class JsessionAttackTest {
 
 	private static final String web = "http://192.168.110.241:8080/SmartCatchMposZkWeb/pages/index.zul?theme=cerulean&target=m2/M204Init.zul";

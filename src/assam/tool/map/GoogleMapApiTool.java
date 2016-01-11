@@ -12,6 +12,14 @@ import java.util.Map;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+/**
+ * @Description 	google map API
+ * @author 			charlie
+ * @CreateDate 		2016年1月11日 下午4:40:28
+ * @LastModifier 	charlie
+ * @LastModifyDate 	2016年1月11日 下午4:40:28
+ * @Copyright 		Smart Catch International Co., Ltd
+ */
 public class GoogleMapApiTool {
 	
 	public static final String GoogleDirectionAPI = "http://maps.googleapis.com/maps/api/directions/json?origin=%s&destination=%s&sensor=false&language=zh-tw";

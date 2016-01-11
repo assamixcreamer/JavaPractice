@@ -4,7 +4,14 @@ import java.io.Serializable;
 import java.lang.reflect.Field;
 import java.util.Random;
 
-
+/**
+ * @Description 	地址產生器
+ * @author 			charlie
+ * @CreateDate 		2016年1月11日 下午4:39:50
+ * @LastModifier 	charlie
+ * @LastModifyDate 	2016年1月11日 下午4:39:50
+ * @Copyright 		Smart Catch International Co., Ltd
+ */
 public class AddressBuilder {
 	
 	private static Random random = new Random();
